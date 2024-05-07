@@ -2,7 +2,7 @@ select product_name ,sum(unit) as unit
 from Products
 join Orders using(product_id)
 where MONTH(order_date) = 2 AND YEAR(order_date) = 2020
-group by product_name
+group by product_id
 having sum(unit)>=100
 
 --------------------------
