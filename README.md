@@ -1,7 +1,7 @@
 SQL
 ========
 
-### [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+### [Top SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 <img src="https://github.com/jesse980107/SQL/blob/main/Top_SQL_50.gif" alt="Cool Animation" width="125" height="125" />
 
 
