@@ -6,7 +6,7 @@ SQL
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1045|[Customers Who Bought All Products]()| [MySQL](./SQL/SQL%2050/1045#.sql)|Medium|
+|1045|[Customers Who Bought All Products]()| [MySQL](./SQL%2050/1045#.sql)|Medium|
 |1068|[Product Sales Analysis I]()| [MySQL](./SQL/SQL 50/1068_Product_Sales_Analysis_I.md)|Medium|
 |1070|[Product Sales Analysis III]()| [MySQL](./SQL/SQL 50/1070_Product_Sales_Analysis_III.md)|Medium|
 |1075|[Project Employees I]()| [MySQL](./SQL/SQL 50/1075_Project_Employees_I.md)|Medium|
