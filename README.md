@@ -9,13 +9,13 @@ Basic to intermediate 50 essential SQL questions
 |---| ----- | -------- | ---------- |
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/submissions/1252188395?envType=study-plan-v2&envId=top-sql-50)| [MySQL](./SQL%2050/176%23.sql)|Medium|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50)| [MySQL](./SQL%2050/180%23.sql)|Medium|
-|185|[Department Top Three Salaries]()| [MySQL](./SQL%2050/185%23.sql)|Easy|
-|196|[Delete Duplicate Email]()| [MySQL](./SQL%2050/196%23.sql)|Easy|
-|197|[Rising Temperature]()| [MySQL](./SQL%2050/197%23.sql)|Easy|
-|550|[Game play Analysis IV]()| [MySQL](./SQL%2050/550%23.sql)|Easy|
-|570|[Managers with at Least 5 Direct Reports]()| [MySQL](./SQL%2050/570%23.sql)|Easy|
-|577|[Employee Bonus]()| [MySQL](./SQL%2050/577%23.sql)|Easy|
-|584|[Find Customer Referee]()| [MySQL](./SQL%2050/584%23.sql)|Easy|
+|185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=top-sql-50)| [MySQL](./SQL%2050/185%23.sql)|Hard|
+|196|[Delete Duplicate Email](https://leetcode.com/problems/delete-duplicate-emails/description/?envType=study-plan-v2&envId=top-sql-50)| [MySQL](./SQL%2050/196%23.sql)|Easy|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50)| [MySQL](./SQL%2050/197%23.sql)|Easy|
+|550|[Game play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50)| [MySQL](./SQL%2050/550%23.sql)|Medium|
+|570|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50)| [MySQL](./SQL%2050/570%23.sql)|Medium|
+|577|[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50)| [MySQL](./SQL%2050/577%23.sql)|Easy|
+|584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)| [MySQL](./SQL%2050/584%23.sql)|Easy|
 |585|[Investments in 2016]()| [MySQL](./SQL%2050/585%23.sql)|Easy|
 |595|[Big Countries]()| [MySQL](./SQL%2050/595%23.sql)|Easy|
 |596|[Classes More Than 5 Students]()| [MySQL](./SQL%2050/596%23.sql)|Easy|
