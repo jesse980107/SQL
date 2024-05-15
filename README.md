@@ -1,5 +1,7 @@
 SQL
 ========
+![Language](https://img.shields.io/badge/language-MySQL%20%2F%20PostgreSQL-orange)&nbsp;
+![Update](https://img.shields.io/badge/update-daily%20%2F%20weekly-green.svg)&nbsp;
 
 ### [Top SQL 50](https://leetcode.com/studyplan/top-sql-50/)<img src="https://github.com/jesse980107/SQL/blob/main/Top_SQL_50.gif" alt="Cool Animation" width="80" height="80" />
 Basic to intermediate 50 essential SQL questions
